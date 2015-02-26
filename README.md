@@ -1,1 +1,1 @@
-An example that read shared preferences data.
+An example that read shared preferences data of Android.
